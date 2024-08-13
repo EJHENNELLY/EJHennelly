@@ -1,8 +1,7 @@
-## Hello, I'm EJ
-<a href="www.linkedin.com/in/ej-hennelly-8ab907168"><img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fej-hennelly-8ab907168%2F?style=for-the-badge&logo=LinkedIn&logoColor=White" /></a>
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-**EJHENNELLY/EJHennelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -59,4 +58,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-
