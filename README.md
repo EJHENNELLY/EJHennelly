@@ -1,17 +1,27 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm EJ
+<a href="https://www.linkedin.com/in/ej-hennelly-8ab907168"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Professional Summary
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My name is EJ Hennelly and I am currently an Insurance Broker with 4 years of experience in the insurance and risk management industry. During my time in this industry, I've had the opportunity to consult a wide range of high-value customers and C-Suite executives to understand client challenges and priorities. I have used my knowledge of the industry and product offerings to deliver customer value by developing solutions, managing risk, and ensuring compliance with industry standards.
+
+Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in technology and cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is experienced in collaborating with both in-person and virtual teams. I have strong analytical abilities, problem-solving skills, and I am eager to learn. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My career journey has led me to develop a strong interest in cybersecurity, and I am now looking to transition into this field. 
+
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Google Cybersecurity Professional Certificate and on my own. The items  included in this portfolio have provided insights into:
+- Programming for cybersecurity tasks
+- Frameworks and controls that inform security operations
+- SIEM tools for cybersecurity
+- Detecting and responding to incidents using an intrusion detection system
+- Performing packet capture and analysis
+- Gaining hands-on experience with Python, Linux, and SQL
+
+Additionally, it has paved the way for me to pursue an entry-level role. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
