@@ -5,13 +5,15 @@
 
 My name is EJ Hennelly and I am currently an Insurance Broker with 4 years of experience in the insurance and risk management industry. During my time in this industry, I've had the opportunity to consult a wide range of high-value customers and C-Suite executives to understand client challenges and priorities. I have used my knowledge of the industry and product offerings to deliver customer value by developing solutions, managing risk, and ensuring compliance with industry standards.
 
-Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in technology and cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is experienced in collaborating with both in-person and virtual teams. I have strong analytical abilities, problem-solving skills, and I am eager to learn. 
+My time as an insurance broker led to professional development in many areas that I believe will be useful in a career in cybersecurity such as risk assessment, risk management, problem-solving, regulatory and compliance, analytical thinking, collaboration, attention to detail, and clear communication. While I have enjoyed my time in the insurance industry, I have found it to be repetitive and mundane at times. My yearning for new challenges and career growth influenced me to begin my journey in cyber security. 
+
+Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in technology and cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. I am currently preparing to earn my CompTIA Security + certification. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is eager to learn, with  experience collaborating with both in-person and virtual teams.
 
 ## Objective
 
-My career journey has led me to develop a strong interest in cybersecurity, and I am now looking to transition into this field. 
+I am looking forward to transitioning into the field of cybersecurity. 
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Google Cybersecurity Professional Certificate and on my own. The items  included in this portfolio have provided insights into:
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Google Cybersecurity Professional Certificate and on my own. The items included in this portfolio have provided insights into:
 - Programming for cybersecurity tasks
 - Frameworks and controls that inform security operations
 - SIEM tools for cybersecurity
