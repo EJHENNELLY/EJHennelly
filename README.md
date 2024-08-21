@@ -31,7 +31,7 @@ Additionally, it has paved the way for me to pursue an entry-level role.
 | [3](https://github.com/EJHENNELLY/Linux-SQL.git) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
 | [4](https://github.com/EJHENNELLY/AssestsThreatsVulnerabilities.git) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
 | [5](https://github.com/EJHENNELLY/Detection-Response.git) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [6](https://github.com/EJHENNELLY/Tcpdump-Wireshark.git) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
