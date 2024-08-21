@@ -33,7 +33,7 @@ Additionally, it has paved the way for me to pursue an entry-level role.
 | [5](https://github.com/EJHENNELLY/Detection-Response.git) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
 | [6](https://github.com/EJHENNELLY/Tcpdump-Wireshark.git) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/EJHENNELLY/IDS-SIEM-Tools.git) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+| [8](https://github.com/EJHENNELLY/Python-Automation.git) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 ## Tools
 <div>
