@@ -41,6 +41,7 @@ Additionally, it has paved the way for me to pursue an entry-level role.
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=Markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-32CD32?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=Google%20Workspace&logoColor=white" />
 </div>
 
