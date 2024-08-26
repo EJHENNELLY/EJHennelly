@@ -56,6 +56,7 @@ Additionally, it has paved the way for me to pursue an entry-level role.
     <img src="https://img.shields.io/badge/-Chronicle-005571?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ## Certifications
