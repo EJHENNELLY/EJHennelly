@@ -70,3 +70,4 @@ Additionally, it has paved the way for me to pursue an entry-level role.
 ## Projects
 - Detection Lab
 - SOC Home Lab and SEIM with Microsoft Azure & Sentinel
+- Build a Home Network with Cisco Packet Tracer
