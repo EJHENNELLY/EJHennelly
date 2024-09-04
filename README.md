@@ -3,11 +3,11 @@
 
 ## Professional Summary
 
-My name is EJ Hennelly and I am currently an Insurance Broker with 4 years of experience in the insurance and risk management industry. During my time in this industry, I've had the opportunity to consult a wide range of high-value customers and C-Suite executives to understand client challenges and priorities. I have used my knowledge of the industry and product offerings to deliver customer value by developing solutions, managing risk, and ensuring compliance with industry standards.
+I am currently an Insurance Broker with 4 years of experience in the insurance and risk management industry. During my time in this industry, I've had the opportunity to consult a wide range of high-value customers and C-Suite executives to understand client challenges and priorities. I have used my knowledge of the industry and product offerings to deliver customer value by developing solutions, managing risk, and ensuring compliance with industry standards.
 
-My time as an insurance broker led to professional development in many areas that I believe will be useful in a career in cybersecurity such as risk assessment, risk management, problem-solving, regulatory and compliance, analytical thinking, collaboration, attention to detail, and clear communication. While I have enjoyed my time in the insurance industry, I have found it to be repetitive and mundane at times. My yearning for new challenges and career growth influenced me to begin my journey in cyber security. 
+My time as an insurance broker led to professional development in many areas that I believe will be useful in a career in cybersecurity such as risk assessment, risk management, problem-solving, regulatory and compliance, analytical thinking, collaboration, attention to detail, and clear communication. While I have enjoyed my time in the insurance industry, I have decided to transition into a career in cyber security. I am looking for new challenges and career growth.
 
-Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in technology and cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. I am currently preparing to earn my CompTIA Security + certification. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is eager to learn, with  experience collaborating with both in-person and virtual teams.
+Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. I am currently preparing to earn my CompTIA Security + certification. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is eager to learn, with experience collaborating with both in-person and virtual teams.
 
 ## Objective
 
