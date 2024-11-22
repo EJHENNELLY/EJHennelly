@@ -68,8 +68,8 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
  <a href="https://www.credly.com/badges/d1e91bc5-11ae-48cf-b4ff-524e42a8b6aa/public_url">
-    <img src="![Static Badge](https://img.shields.io/badge/CompTIA%20Security%2B%20-%20red)" />
- </a>
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B%20-%20red" />
+</a>
 </div>
 
 ## Projects
