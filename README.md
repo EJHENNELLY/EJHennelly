@@ -3,25 +3,27 @@
 
 ## Professional Summary
 
-I am currently an Insurance Broker with 4 years of experience in the insurance and risk management industry. During my time in this industry, I've had the opportunity to consult a wide range of high-value customers and C-Suite executives to understand client challenges and priorities. I have used my knowledge of the industry and product offerings to deliver customer value by developing solutions, managing risk, and ensuring compliance with industry standards.
+I am a motivated and results-driven professional with over 4 years of experience in risk management and consultative client engagement. I am proficient in partnering with enterprise stakeholders to manage risk, achieve compliance, and implement actionable mitigation strategies. CompTIA Security+ certified, I have developed expertise in security frameworks (NIST 800, ISO 27001, SOC 2) and hands-on technical experience with SIEM tools and network monitoring and analysis. 
 
-My time as an insurance broker led to professional development in many areas that I believe will be useful in a career in cybersecurity such as risk assessment, risk management, problem-solving, regulatory and compliance, analytical thinking, collaboration, attention to detail, and clear communication. While I have enjoyed my time in the insurance industry, I have decided to transition into a career in cyber security. I am looking for new challenges and career growth.
+Throughout my career, I've honed the ability to lead consultative discussions with high-net-worth individuals and C-Suite executives to identify their vulnerabilities and priorities. I am adept at resolving complex challenges by combining technical expertise with exceptional communication and strategic planning skills.
 
-Recently, I completed the Google Cybersecurity Professional Certificate to pursue my interest in cybersecurity. The knowledge and skills I learned through this certificate program have prepared me for industry-ready jobs. I am currently preparing to earn my CompTIA Security + certification. My ultimate goal is to become a security analyst. This role suits me because I am a self-starter who is eager to learn, with experience collaborating with both in-person and virtual teams.
+I am looking for new challenges and career growth. I will bring a self-starter mindset, enthusiasm to learn, and a drive to solve complex problems to your team.
+
 
 ## Objective
 
 I am looking forward to transitioning into the field of cybersecurity. 
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Google Cybersecurity Professional Certificate and on my own. The items included in this portfolio have provided insights into:
-- Programming for cybersecurity tasks
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Cybersecurity training and on my own. The items included in this portfolio have provided insights into:
 - Frameworks and controls that inform security operations
+- Performing security assessments and IT system/process audits
+- Compliance and Risk Management
 - SIEM tools for cybersecurity
+- Programming for cybersecurity tasks
 - Detecting and responding to incidents using an intrusion detection system
 - Performing packet capture and analysis
 - Gaining hands-on experience with Python, Linux, and SQL
-
-Additionally, it has paved the way for me to pursue an entry-level role. 
+ 
 
 ## Skills
 | Projects | Skills/Knowledge Gained | 
