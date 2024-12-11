@@ -75,5 +75,5 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 
 ## Projects
 - Detection Lab
-- SOC Home Lab and SIEM with Microsoft Azure & Sentinel
+- CI/CD Pipeline and Build Security
 - Build a Home Network with Cisco Packet Tracer
