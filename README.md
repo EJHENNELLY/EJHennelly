@@ -77,3 +77,4 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 - Detection Lab
 - CI/CD Pipeline and Build Security
 - Build a Home Network with Cisco Packet Tracer
+- AWS Math Power Function : "https://dev.d2ephtk47nklpk.amplifyapp.com/"
