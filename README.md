@@ -51,6 +51,11 @@ I have developed a portfolio showcasing various tasks and projects completed dur
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=Google%20Workspace&logoColor=white" />
 </div>
 
+### Cloud Computing
+<div>
+    <img src="https://img.shields.io/badge/AWS%20-%20path?style=for-the-badge&logo=AWS&logoColor=blue&labelColor=blue&color=yellow" />
+</div>
+
 ### Network Analysis and Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
