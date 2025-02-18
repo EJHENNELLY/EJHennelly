@@ -30,15 +30,16 @@ I have developed a portfolio showcasing various tasks and projects completed dur
 ## Skills
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/EJHENNELLY/Conduct-a-Security-Audit.git) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2](https://github.com/EJHENNELLY/Network-Security-Projects.git) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
-| [3](https://github.com/EJHENNELLY/Linux-SQL.git) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4](https://github.com/EJHENNELLY/AssestsThreatsVulnerabilities.git) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5](https://github.com/EJHENNELLY/Detection-Response.git) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6](https://github.com/EJHENNELLY/Tcpdump-Wireshark.git) - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7](https://github.com/EJHENNELLY/IDS-SIEM-Tools.git) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8](https://github.com/EJHENNELLY/Python-Automation.git) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
-| [8](https://github.com/EJHENNELLY/AWS-Calculator) - Serverless Calculator Webpage with AWS | `AWS Amplify, AWS Lambda, API Gateway, DynamoDB, AWS IAM, Python, HTML,`| 
+| [1](https://github.com/EJHENNELLY/AWS-Calculator) - Serverless Calculator Webpage with AWS | `AWS Amplify, AWS Lambda, API Gateway, DynamoDB, AWS IAM, Python, HTML,`| 
+| [2](https://github.com/EJHENNELLY/Conduct-a-Security-Audit.git) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [3](https://github.com/EJHENNELLY/Network-Security-Projects.git) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
+| [4](https://github.com/EJHENNELLY/Linux-SQL.git) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [5](https://github.com/EJHENNELLY/AssestsThreatsVulnerabilities.git) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [6](https://github.com/EJHENNELLY/Detection-Response.git) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [7](https://github.com/EJHENNELLY/Tcpdump-Wireshark.git) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [8](https://github.com/EJHENNELLY/IDS-SIEM-Tools.git) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [9](https://github.com/EJHENNELLY/Python-Automation.git) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+
 
 ## Tools
 <div>
