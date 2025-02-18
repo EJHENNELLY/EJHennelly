@@ -3,23 +3,25 @@
 
 ## Professional Summary
 
-I am a motivated and results-driven professional with over 4 years of experience in risk management and consultative client engagement. I am proficient in partnering with enterprise stakeholders to manage risk, achieve compliance, and implement actionable mitigation strategies. CompTIA Security+ certified, I have developed expertise in security frameworks (NIST 800, ISO 27001, SOC 2) and hands-on technical experience with SIEM tools and network monitoring and analysis. 
+I am a motivated and certified professional with over 4 years of experience in client engagement, project management, and incident response. I have a proven ability to analyze business needs and requirements, collaborate across teams to develop solutions, prepare proposals, and communicate complex concepts in a clear and convincing manner.
+
+I am a self-starter, who has worked many long nights to obtain tech certifications that prove my ability to be an asset to your team. My certifications include CompTIA Security + CE, Google's Cybersecurity Professional Certificate, and TryHackMe's Security Engineer Path. I am currently pursuing the AWS Certified Solutions Architect Associate and will update my resume soon to include it.
 
 Throughout my career, I've honed the ability to lead consultative discussions with high-net-worth individuals and C-Suite executives to identify their vulnerabilities and priorities. I am adept at resolving complex challenges by combining technical expertise with exceptional communication and strategic planning skills.
 
-I am looking for new challenges and career growth. I will bring a self-starter mindset, enthusiasm to learn, and a drive to solve complex problems to your team.
+I am an adaptable and energetic team player who is eager to thrive in a fast paced environment.
 
 
 ## Objective
 
-I am looking forward to transitioning into the field of cybersecurity. 
+I am looking for the opportunity to solve new challenges and grow my career.
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my Cybersecurity training and on my own. The items included in this portfolio have provided insights into:
-- Frameworks and controls that inform security operations
+I have developed a portfolio showcasing various tasks and projects completed during my Cybersecurity training and on my own. The items included in this portfolio have provided insights into:
+- Creating a resume website using HTML, JS, and CSS
+- Building End-to-End Serverless web applications with AWS
 - Performing security assessments and IT system/process audits
-- Compliance and Risk Management
 - SIEM tools for cybersecurity
-- Programming for cybersecurity tasks
+- Programming and automation for cybersecurity tasks
 - Detecting and responding to incidents using an intrusion detection system
 - Performing packet capture and analysis
 - Gaining hands-on experience with Python, Linux, and SQL
@@ -36,6 +38,7 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 | [6](https://github.com/EJHENNELLY/Tcpdump-Wireshark.git) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/EJHENNELLY/IDS-SIEM-Tools.git) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/EJHENNELLY/Python-Automation.git) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+| [8](https://github.com/EJHENNELLY/AWS-Calculator) - Serverless Calculator Webpage with AWS | `AWS Amplify, AWS Lambda, API Gateway, DynamoDB, AWS IAM, Python, HTML,`| 
 
 ## Tools
 <div>
