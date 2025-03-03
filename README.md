@@ -3,13 +3,11 @@
 
 ## Professional Summary
 
-I am a motivated and certified professional with over 4 years of experience in client engagement, project management, and incident response. I have a proven ability to analyze business needs and requirements, collaborate across teams to develop solutions, prepare proposals, and communicate complex concepts in a clear and convincing manner.
+I am a motivated and certified professional with over 4 years of experience in client engagement, project management, and incident response. I have a proven ability to grow and retain a portfolio of diverse accounts in B2B and B2C settings. 
 
-I am a self-starter, who has worked many long nights to obtain tech certifications that prove my ability to be an asset to your team. My certifications include CompTIA Security + CE, Google's Cybersecurity Professional Certificate, and TryHackMe's Security Engineer Path. I am currently pursuing the AWS Certified Solutions Architect Associate and will update my resume soon to include it.
+Eager to pivot into a tech-driven career, I’ve become CompTIA Security+ certified and earned Google’s Cybersecurity Professional Certificate along with TryHackMe’s Security Engineer Path to demonstrate hands-on experience with today's most popular technologies such as Splunk, Metasploit, Wireshark, Tcpdump, and Nmap to name a few. I am also interested in the tools of the future and am actively pursuing the AWS Certified Solutions Architect Associate while building projects with AWS services such as S3, EC2, CloudFront, Dynamodb, Lambda, Route53, IAM, API-Gateway, Amplify, and more.
 
-Throughout my career, I've honed the ability to lead consultative discussions with high-net-worth individuals and C-Suite executives to identify their vulnerabilities and priorities. I am adept at resolving complex challenges by combining technical expertise with exceptional communication and strategic planning skills.
-
-I am an adaptable and energetic team player who is eager to thrive in a fast paced environment.
+I’m a determined problem-solver and a quick learner who is excited to bring my unique blend of business acumen and technical skills to a new role. I am confident that my experience and self-starter mentality will make me a valuable asset to your team!
 
 
 ## Objective
@@ -17,8 +15,9 @@ I am an adaptable and energetic team player who is eager to thrive in a fast pac
 I am looking for the opportunity to solve new challenges and grow my career.
 
 I have developed a portfolio showcasing various tasks and projects completed during my Cybersecurity training and on my own. The items included in this portfolio have provided insights into:
-- Creating a resume website using HTML, JS, and CSS
 - Building End-to-End Serverless web applications with AWS
+- Leveraging CI/CD to improve my projects
+- Creating a resume website using HTML, JS, and CSS
 - Performing security assessments and IT system/process audits
 - SIEM tools for cybersecurity
 - Programming and automation for cybersecurity tasks
